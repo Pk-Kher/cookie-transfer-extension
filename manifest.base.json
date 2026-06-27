@@ -1,8 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Cookie Transfer",
+  "short_name": "Cookies",
   "version": "1.0.0",
   "description": "Copy cookies from one site to the active tab's domain with a click or keyboard shortcut.",
+  "author": "pk-kher",
+  "homepage_url": "https://github.com/pk-kher/extension",
   "permissions": [
     "cookies",
     "activeTab",
